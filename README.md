@@ -10,4 +10,4 @@ Exemplo 2![Exemplo](https://i.imgur.com/DhRuIQN.png)
  - Adicionar a função para transcrever e verificar a resolução de uma
    equação usando a câmera
    
- - Melhorar a visualização das respostas, (a princípio possívelmente usando LaTeX)
+ - Melhorar a visualização das respostas, (a princípio usando LaTeX)
